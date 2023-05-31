@@ -1,4 +1,5 @@
 # Chatroom with Python
+[![Tests](https://github.com/kharigardner/pychatroom/actions/workflows/test.yml/badge.svg)]
 ----------------------
 
 This project is a practice project in building a functional chatroom in Python with the standard libraries.
